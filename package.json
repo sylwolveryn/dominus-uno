@@ -1,0 +1,9 @@
+{
+  "name": "dominus-uno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sylwolveryn/dominus-uno.git",
+  "author": "Marcell Neszt <sylwolveryn@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
