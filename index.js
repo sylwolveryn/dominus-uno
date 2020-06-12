@@ -1,3 +1,3 @@
-exports.printMsg = function() {
-    console.log('dominus uno');
+exports.test = (options) => {
+    console.log(JSON.stringify(options, null, 2));
 };
